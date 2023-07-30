@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomSpinnerRecyclerView</string>
+
+    <string name="AudiA5">AUDI A5</string>
+    <string name="AudiA8">AUDI A8</string>
+    <string name="MercedesE200D">MERCEDES E200D</string>
+    <string name="BMWM4">BMW M4</string>
+    <string name="FORDFOCUS">Ford Focus</string>
+
+</resources>
